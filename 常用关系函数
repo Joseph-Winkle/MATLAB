@@ -1,0 +1,8 @@
+all
+any:all、any都是关于非零的
+exist:工作空间中是否存在
+find:找非0元素位置
+isfloat
+isfinite
+另--逻辑运算&（与）、|（或）、~非
+            and(a,b)、or(a,b)、not(a)、xor(a,b)异
